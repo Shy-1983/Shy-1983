@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shyamal Sutradhar</h1>
+<h1 anime="center">Hi 👋, I'm Shyamal Sutradhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Advance Excel, Python, Power BI**
