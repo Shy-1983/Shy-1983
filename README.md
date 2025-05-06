@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyamal Sutradhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Advance Excel, Python, Power BI**
+- 🌱 I’m currently learning **Advance Excel, Python, SQL, Power BI**
 
 - 📫 How to reach me **shyamal.sutradhar32@gmail.com**
 
